@@ -1,0 +1,3 @@
+Comando da inviare nella cartella samples:
+
+k6 run --duration 60s --out influxdb=http://localhost:8085/myk6db prova.js
